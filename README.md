@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ArulmozhiAvinash
-- 👀 I’m interested in building applicaiton that to make our life simpler 
 - 🌱 I’m currently learning React JS
 ### Connect with me:
 
