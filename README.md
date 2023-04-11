@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ArulmozhiAvinash
-- 🌱 I’m currently learning React JS
 ### Connect with me:
 
 [<img align="left" alt="Avinash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
